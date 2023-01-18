@@ -21,3 +21,6 @@
        __________) Scissor
       (____)
 ---.__(___)
+
+
+<img src='https://github.com/jamil7794/rock-paper-scissor/blob/main/rock_paper_scissor_gif.gif' width='' alt='Video Walkthrough' />
